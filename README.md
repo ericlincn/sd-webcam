@@ -1,4 +1,4 @@
-# sd-web-cam
+# sd-webcam
 A Flask app that sends webcam raw images to ComfyUI and displays the rendered images.
 
 https://github.com/ericlincn/sd-web-cam/assets/20105350/624cc6aa-c94c-41d6-bb76-78a43f93c293
